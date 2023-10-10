@@ -49,7 +49,7 @@ const questions = [
     {
         type: 'input',
         name: 'Email',
-        message: 'what is your email?',
+        message: 'what is your Email?',
     },
     {
         type: 'input',
@@ -73,7 +73,7 @@ fs.writeFileSync(fileName,generateMarkdown(data))
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(data => {
-        writeToFile("README.md", data)
+        writeToFile("./output/README.md", data)
     })
 }
 

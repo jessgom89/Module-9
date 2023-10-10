@@ -1,8 +1,10 @@
-# cool
+# Professional README Generator
   
 
   ## Description
-  cool  
+  How to do a professional README generator
+<img src="Module9.gif">
+  coding  
   ## Table of Contents (Optional)
   
   If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -14,11 +16,11 @@
   
   ## Installation
   
- cool
+ coding
   
   ## Usage
   
-  undefined
+  coding
   
  
   
@@ -29,9 +31,9 @@
     
 
   ## Tests
-  cool
+  coding
   ## Email
-  undefined
+  gomezjessica933@yahoo.com
   ## Username
-  cool
+  jessgomsr
   

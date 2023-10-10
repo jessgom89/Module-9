@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   
   ## Usage
   
-  ${data.uage}
+  ${data.usage}
   
  
   
@@ -63,9 +63,9 @@ function generateMarkdown(data) {
   ## Tests
   ${data.Tests}
   ## Email
-  ${data.email}
+  ${data.Email}
   ## Username
-  ${data.Username}
+  ${data.Username}sr
   `
 ;
 }
