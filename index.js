@@ -11,7 +11,7 @@ const questions = [
         message: 'What is your title?',
     },
     {
-        type: 'input',
+        type: 'editor',
         name: 'description',
         message: 'what is your description',
     },

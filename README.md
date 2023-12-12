@@ -2,10 +2,11 @@
   
 
   ## Description
-  How to do a professional README generator
-<img src="Module9.gif">
-  coding  
-  ## Table of Contents (Optional)
+  How to do a professional README generator coding 
+  <br>
+<img src="Professional Read-Me video.gif"><br>
+
+## Table of Contents (Optional)
   
   If your README is long, add a table of contents to make it easy for users to find what they need.
   
@@ -28,7 +29,7 @@ Once the user has completed all the prompts, an SVG file named "logo.svg" is cre
   ## Usage
   
   Type command: node index.js 
-  
+
   
  
   
@@ -44,4 +45,6 @@ Once the user has completed all the prompts, an SVG file named "logo.svg" is cre
   gomezjessica933@yahoo.com
   ## Username
   jessgomsr
+  ## Github Link 
+  <a href="https://github.com/jessgom89/Module-9-Professional-Read-Me-Generator-"> Github Repo</a>
   
