@@ -15,12 +15,20 @@
   - [License](#license)
   
   ## Installation
-  
- coding
+In a command-line application, the user is prompted to enter up to three characters.
+
+The user is then asked to enter the desired text color, which can be done either by using a color keyword or a hexadecimal number.
+
+Then, the user is prompted to choose a shape from a list consisting of circle, triangle, and square.
+
+After selecting a shape, the user is asked to specify its color, once again using either a color keyword or a hexadecimal number.
+
+Once the user has completed all the prompts, an SVG file named "logo.svg" is created, and the message "Generated logo.svg" is displayed in the command line.
   
   ## Usage
   
-  coding
+  Type command: node index.js 
+  
   
  
   
