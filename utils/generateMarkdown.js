@@ -53,6 +53,7 @@ function generateMarkdown(data) {
  ${data.installation}
 
   ## Contributors 
+  ${data.Contributing}
   
   ## Usage
   
